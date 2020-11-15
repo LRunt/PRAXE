@@ -1,4 +1,4 @@
 # -PRAXE-
 SPŠ Chomutov - Praxe 4A
 --------------------------
-Kvalitu nekomentuju, snažil jsem se projít a prošel jsem :-)
+Kvalitu nekomentuju (spíš je to odstrašující případ jak NEprogramovat), snažil jsem se projít a prošel jsem :-)
