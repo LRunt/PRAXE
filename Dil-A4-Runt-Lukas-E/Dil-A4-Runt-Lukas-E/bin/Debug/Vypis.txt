@@ -1,0 +1,5 @@
+ID Uzivatele: 
+Jmeno:    
+ID pujcene knihy: 
+Nazev:  
+Autor:  
