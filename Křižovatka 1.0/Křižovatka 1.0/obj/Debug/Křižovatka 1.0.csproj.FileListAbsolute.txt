@@ -1,0 +1,11 @@
+C:\Users\Lukáš\source\repos\Křižovatka 1.0\Křižovatka 1.0\bin\Debug\Křižovatka 1.0.exe.config
+C:\Users\Lukáš\source\repos\Křižovatka 1.0\Křižovatka 1.0\bin\Debug\Křižovatka 1.0.exe
+C:\Users\Lukáš\source\repos\Křižovatka 1.0\Křižovatka 1.0\bin\Debug\Křižovatka 1.0.pdb
+C:\Users\Lukáš\source\repos\Křižovatka 1.0\Křižovatka 1.0\obj\Debug\Křižovatka 1.0.csprojAssemblyReference.cache
+C:\Users\Lukáš\source\repos\Křižovatka 1.0\Křižovatka 1.0\obj\Debug\Křižovatka_1._0.Form1.resources
+C:\Users\Lukáš\source\repos\Křižovatka 1.0\Křižovatka 1.0\obj\Debug\Křižovatka_1._0.Properties.Resources.resources
+C:\Users\Lukáš\source\repos\Křižovatka 1.0\Křižovatka 1.0\obj\Debug\Křižovatka 1.0.csproj.GenerateResource.cache
+C:\Users\Lukáš\source\repos\Křižovatka 1.0\Křižovatka 1.0\obj\Debug\Křižovatka 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Lukáš\source\repos\Křižovatka 1.0\Křižovatka 1.0\obj\Debug\Křižovatka 1.0.exe
+C:\Users\Lukáš\source\repos\Křižovatka 1.0\Křižovatka 1.0\obj\Debug\Křižovatka 1.0.pdb
+C:\Users\Lukáš\source\repos\Křižovatka 1.0\Křižovatka 1.0\obj\Debug\Křižovatka_1._0.AboutBox1.resources
