@@ -1,0 +1,10 @@
+C:\Users\Lukáš\source\repos\Seriova komunikace\Seriova komunikace\bin\Debug\Seriova komunikace.exe.config
+C:\Users\Lukáš\source\repos\Seriova komunikace\Seriova komunikace\bin\Debug\Seriova komunikace.exe
+C:\Users\Lukáš\source\repos\Seriova komunikace\Seriova komunikace\bin\Debug\Seriova komunikace.pdb
+C:\Users\Lukáš\source\repos\Seriova komunikace\Seriova komunikace\obj\Debug\Seriova komunikace.csprojAssemblyReference.cache
+C:\Users\Lukáš\source\repos\Seriova komunikace\Seriova komunikace\obj\Debug\Seriova_komunikace.Form1.resources
+C:\Users\Lukáš\source\repos\Seriova komunikace\Seriova komunikace\obj\Debug\Seriova_komunikace.Properties.Resources.resources
+C:\Users\Lukáš\source\repos\Seriova komunikace\Seriova komunikace\obj\Debug\Seriova komunikace.csproj.GenerateResource.cache
+C:\Users\Lukáš\source\repos\Seriova komunikace\Seriova komunikace\obj\Debug\Seriova komunikace.csproj.CoreCompileInputs.cache
+C:\Users\Lukáš\source\repos\Seriova komunikace\Seriova komunikace\obj\Debug\Seriova komunikace.exe
+C:\Users\Lukáš\source\repos\Seriova komunikace\Seriova komunikace\obj\Debug\Seriova komunikace.pdb
